@@ -1,5 +1,7 @@
 # CVcopyPaste Dashboard
 
+<img width="750" height="500" alt="Preview" src="https://github.com/user-attachments/assets/326ac45f-f9de-44c4-9aef-daa64b24f1df" />
+
 ## Descripción
 Aplicación web para **centralizar y copiar rápidamente** la información que se usa en postulaciones laborales.
 
