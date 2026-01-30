@@ -55,3 +55,8 @@ Registro personal de qué información se usó en cada postulación, sin hacer s
 ## Motivación
 Proyecto personal creado para resolver un problema cotidiano al buscar trabajo,
 priorizando simplicidad, utilidad real y posibilidad de escalar a futuro.
+
+---
+<img width="1536" height="1024" alt="Relaciones" src="https://github.com/user-attachments/assets/077eada7-a674-4af1-91f2-77bb029f8c01" />
+
+
